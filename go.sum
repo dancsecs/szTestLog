@@ -1,2 +1,4 @@
+github.com/dancsecs/szLog v0.0.0-20231119160500-6b6d95b0a3c1 h1:lpRSNAdkv7VcmYBXNWScJPgjugrG8TUOgiDV4RVB06o=
+github.com/dancsecs/szLog v0.0.0-20231119160500-6b6d95b0a3c1/go.mod h1:Cua+cFdcBZY4iuFUqKghojtq66WfWyGO+qGuqUIO3OI=
 github.com/dancsecs/szTest v0.0.0-20231113191917-44f657b7238d h1:6Gf8C86doHsbpB8q6zfOJFgnclZIOWzWrGfg001Ryis=
 github.com/dancsecs/szTest v0.0.0-20231113191917-44f657b7238d/go.mod h1:5CdoB68jemRUqXGMwAdFhBPBLdxalbpWtGIwvcQH1fI=
