@@ -1,6 +1,6 @@
 <!--- goToMD::Auto:: See github.com/dancsecs/goToMD ** DO NOT MODIFY ** -->
 
-# Package goToMd
+# Package szTestLog
 
 <!--- goToMD::Bgn::doc::./package -->
 ```go
